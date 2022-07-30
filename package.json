@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-product-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "tailwindcss": "^3.1.7"
+  }
+}
